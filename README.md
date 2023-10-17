@@ -103,9 +103,9 @@ Modify corresponding paths in load_dataset.py if necessary.
 </tbody>
 </table>
 
-## Calculate probabilities based on a foundation language model
+## Probability Caculation
 
-Calculate the probabilities by:
+Calculate the probabilities based on a foundation language model by:
 
 ```shell
 CUDA_VISIBLE_DEVICES=0 python3 main.py
